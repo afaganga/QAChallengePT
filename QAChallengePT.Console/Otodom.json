@@ -1,0 +1,12 @@
+{
+  "$type": "QAChallengePT.Otodom.OtodomTestSet, QAChallengePT.Otodom",
+  "Cases": {
+    "$type": "QAChallengePT.Otodom.OtodomTestSet+Case1[], QAChallengePT.Otodom",
+    "$values": [
+      {
+        "$type": "QAChallengePT.Otodom.OtodomTestSet+Case1, QAChallengePT.Otodom"
+      }
+    ]
+  },
+  "Metadata": null
+}
